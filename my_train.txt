@@ -1,7 +1,3 @@
-data/my_dataset/001.jpg
-data/my_dataset/002.jpg
-data/my_dataset/003.jpg
-data/my_dataset/004.jpg
 data/my_dataset/005.jpg
 data/my_dataset/006.jpg
 data/my_dataset/007.jpg
